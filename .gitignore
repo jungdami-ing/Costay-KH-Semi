@@ -571,5 +571,6 @@ FodyWeavers.xsd
 data-source.properties
 upload/
 images/
+WebContent/META-INF
 
 # End of https://www.toptal.com/developers/gitignore/api/java,java-web,windows,macos,oracleforms,database,data,eclipse,visualstudio
